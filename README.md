@@ -1,6 +1,8 @@
 # book-recommender
 The recommendation system puts together certain users in a group who have read and rated similar books before and recommends books to the users in that group based on the ratings given by the other members of the group. The first section of the code presents the top 50 most popular books on the platform.
 
+I have solved a machine learning classification problem and evaluated the model's performance using confusion matrix, accuracy score, recall score, precision score and f1 score.
+
 The dataset is downloaded from Kaggle.com and is used for only learning purposes.
 
 <h1 align="center">Hi 👋, I'm Mariyam Sheikh</h1>
